@@ -1,17 +1,17 @@
 ### Random String Generator for Windows
 
-Random String Generator creates random character strings and passwords in a couple of clicks. Everything happens on your own computer: nothing is sent over the internet, and nothing is stored or tracked.
+Random String Generator creates random character strings, passwords and passphrases in a couple of clicks. Everything happens on your own computer. Nothing is sent over the internet, stored or tracked.
 
 <img width="650" height="465" alt="image" src="https://github.com/user-attachments/assets/41f41df8-d038-4644-8507-f8135eb29bf6" />
 
 - Easy to use
-- Works offline
-- Privacy friendly
+- Works completely offline
+- Privacy-friendly
 - No data collection
-- Includes word lists for the most widely spoken languages.
-- Includes a composer with which you are able to assemble passphrases by specification
-- And it's free
+- Word lists for the most widely spoken languages
+- Passphrase composer to build passphrases to your own specification
+- And it's free to use
 
-System Requirements:
-- Minimum: Windows 10 21H2 X86 & 64
-- Installers available for x64, Arm64 and x86 (32bit)
+#### System requirements
+- Windows 10 version 21H2 or later, or Windows 11
+- Installers available for x64, ARM64 and x86 (32-bit)
